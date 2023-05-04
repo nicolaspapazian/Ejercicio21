@@ -5,5 +5,16 @@
     "mysql2": "^3.2.4",
     "node": "^20.1.0",
     "sequelize": "^6.31.1"
-  }
+  },
+  "name": "ejercicio21",
+  "description": "teamWork",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
